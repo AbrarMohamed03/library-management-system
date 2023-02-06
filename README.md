@@ -36,9 +36,9 @@ This project is a web-based library management system that allows you to manage 
   gh repo clone DexTer-9/library-management-system
 ```
 
-2. Import the database (bibliotheque.sql) to your MySQL server
+2. Import the database `bibliotheque.sql` to your MySQL server
 
-3. Configure the database settings in the 'inclodes/config.php' file
+3. Configure the database settings in the `inclodes/config.php` file
 
 4. Start the development server
 
