@@ -33,7 +33,7 @@ This project is a web-based library management system that allows you to manage 
 
 
 ```bash
-  git clone https://github.com/DexTer-9/crud-website-mongodb.git
+  git clone https://github.com/DexTer-9/library-management-system.git
 ```
 
 2. Import the database `bibliotheque.sql` to your MySQL server
